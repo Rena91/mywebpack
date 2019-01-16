@@ -1,0 +1,23 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "learning mywebpackconfig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rena91/mywebpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rena91/mywebpack/issues"
+  },
+  "homepage": "https://github.com/Rena91/mywebpack#readme",
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
